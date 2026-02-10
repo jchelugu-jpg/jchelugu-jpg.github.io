@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+button{
+    width: 350px;
+    height: 150px;
+    
+}
+
+main{
+    width: 1300px;
+    margin: auto;
+}
+
+div.left{
+    width: 30%;
+    padding: 10px;
+    float: left;
+}
+
+
+div.middle{
+    padding: 10px;
+    float:left;
+    width: 30%;
+}
+
+div.right{
+    padding: 10px;
+    float: left;
+    width: 30%;
+}
