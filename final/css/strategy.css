@@ -1,0 +1,38 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+h1{
+    background-color: lightseagreen;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+a{
+    background-color: plum;
+    padding: 0 55px;
+   
+}
+
+.mapping2{
+    padding: 4x;
+    float: left;
+    width: 45%;
+    height: 100%;
+}
+
+p{
+    float: right;
+    background-color: lightseagreen;
+}
+
+.mapping{
+    float: right;
+    width: 50%;
+    padding: 5px;
+
+}
+
+
+

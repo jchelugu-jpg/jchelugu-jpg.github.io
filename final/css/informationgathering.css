@@ -1,0 +1,25 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+h1{
+    background-color: lightseagreen;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+a{
+    background-color: plum;
+    padding: 0 55px;
+   
+}
+p{
+    text-align: center;
+    background-color: lightseagreen;
+    
+}
+
+img{
+    width: 50%;
+}

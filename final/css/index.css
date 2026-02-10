@@ -1,0 +1,58 @@
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+h1{
+    background-color: lightseagreen;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+
+h3{
+    text-align: center;
+   
+}
+
+p{
+
+    float:left;
+    width: 40%;
+    padding: 10px;
+}
+.smile{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+img{
+    height: 70%;
+    width: 50%;
+    float: left;
+}
+
+
+a{
+    background-color: plum;
+    padding: 0 55px;
+   
+}
+
+
+nav{
+    border: solid black; 
+}
+
+nav a:hover{
+    background-color: orange;
+}
+
+section{
+    background-color: rgb(248, 203, 2);
+    height: 280px;
+
+}
+
