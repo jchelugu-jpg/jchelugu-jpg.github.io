@@ -1,0 +1,30 @@
+h1{
+    background-color: lightskyblue;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: pink;
+    
+}
+
+h2{
+    text-align: center;
+   
+}
+
+p{
+    text-align: center;
+}
+.dessert{
+    
+    margin: auto;
+
+    text-align: center;
+
+    width: 50%;
+
+}
+

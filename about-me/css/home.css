@@ -1,0 +1,34 @@
+h1{
+    background-color: lightgreen;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: lightsalmon;
+    
+}
+
+h2{
+    text-align: center;
+   
+}
+
+p{
+    text-align: center;
+}
+.dessert{
+    
+    margin: auto;
+
+    text-align: center;
+
+    width: 50%;
+
+}
+
+img{
+    width: 70%;
+}
+

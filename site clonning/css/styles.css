@@ -1,0 +1,99 @@
+button {
+    background-color: white;
+    color: black;
+    border: gray;
+    border-radius: 50px;
+    width: 107px;
+    font-size: 2em;
+}
+
+button.red{
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+   
+}
+
+.left, .right{
+    float: left;
+    width: 30%;
+
+}
+.middle{
+    float: left;
+    width: 40%;
+}
+
+nav.nav button{
+    float: right;
+}
+
+div.right img{
+
+        width: 380px;
+}
+
+div.left img{
+    width: 356px;
+}
+
+div.middle img{
+    width: 490px;
+   margin: auto;
+   padding: 2px;
+}
+
+h1.left{
+    text-align: center;
+    
+}
+
+div.Mmiddle p{
+    text-align: center;
+}
+
+
+
+div.Mmiddle img{
+   
+    margin: auto;
+  
+    padding: 3px;
+}
+
+
+
+div.Mmiddle p{
+    margin: auto;
+}
+
+nav.nav img{
+    height: 45px;
+}  
+
+nav.nav a{
+    padding: 20px;
+}
+
+div.trending{
+    padding: 8px;
+}
+
+div.trending a {
+    padding: 20px;
+}
+
+div.leftmiddle h4{
+    color: red;
+}
+.group div{
+    float: left;
+    width: 30%;
+}
+.group div img {
+    width:100%;
+    
+}

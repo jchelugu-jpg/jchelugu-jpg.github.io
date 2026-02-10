@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+ 
+<html>
+ <head>
+  <meta charset="UTF-8">
+  <title>HTML Project</title>
+ </head>
+  
+ <body>
+  
+  <H1>HTML 1.0</H1>
+  
+  <p>
+  The first version of HTML, HTML 1.0, was invented by Tim Berners-Lee in 1991 andreleased in 1993</p>
+  <p>
+  HTML 1.0 was a basic markup language that introduced a set of tags for structuring digital documents. The original version included 18 tags, element   tags for paragraphs and forheadings.
+  </p>
+  
+  <H1>HTML 2.0</H1> 
+
+  <p> The second version of HTML, HTML 2.0, released on November 24, 1995. </p>
+  <p>HTML 2.0 changed the game by incroporating the ability to organize data into tables. This HTML also introduced elements for creating forms, such as input fields and buttons...etc. </p>
+
+  <H1> HTML 3.2 </H1>
+  <p> The third version of HTML, HTML 3.2, released in 1997. </p>
+  <p> The release of HTML 3.2 added new features like applets, ehanced table support, and also the ability to embed scripts. This new HMTL also allowed features for more visual control such as background images</p>
+
+  <H1> HTML 4.01</H1>
+  <p> The fourth version of HTML, HTML 4.01, released in 1999</p>
+  <p>The major shift with HTML 4.01 was moving formatting and visual styling to CSS, encouraging cleaner, more accessible code. There was also a release of three versions to help developers transition: strict, transitional, and frameset. </p>
+
+  <H1> XHMTL 1.0</H1>
+  <p> The fifth version of HTML was, XHTML 1.0, released in the 2000.</p>
+  <p>This new XHMTL 1.0 version enforced well-formedness, requiring proper nesting, lowercase tags, and all closing elements. This version aimed to imporove the compatability across different software and devices. </p>
+
+  <H1> HTML 5</H1>
+  <p> The sixth version of HTML was, HTML 5, published on October 28, 2014. </p>
+  <p> HTML 5 was the gamechanger. This specific HTML was designed to create powerful web applications. It also introduced new tags such as header, footer, article, nav, section...etc.</p>
+
+  <H1> HTML Living Standard</H1>
+  <p> The latest version of HTML, HTML Living Standard, released in 2011-present</p>
+  <P> This version is a continuously evolving document taht standarlizes HTML and its associated API's. </P>
+
+    </body>
+</html>

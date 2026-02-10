@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: crimson;
+    
+}
+
+div.Diagonal{
+    width: 0px;
+    height: 0px;
+    border-right: 100vw solid transparent;
+    border-bottom: 13.9vw solid teal;
+    margin-Top: 13.9vw;
+}
+
+div h1{
+    background-color: teal;
+}
+
+section.top{
+    background-color: crimson;
+    height: 400px;
+}    
+
+
+section.bottom{
+    background-color: teal;
+   
+}
+
+h1.center{
+    position: absolute;
+    font-size:15em;
+    top: 30vh;
+    left: 40vw;
+}
+h2{
+    margin: 0;
+  
+}
+
+img{
+    width: 390px;
+}
+
+.top{
+    float: right;
+}
+
+
+

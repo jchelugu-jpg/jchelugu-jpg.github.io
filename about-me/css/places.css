@@ -1,0 +1,40 @@
+h1{
+    background-color: lightyellow;
+    text-align: center;
+    margin: 0px;
+    
+}
+
+body{
+    background-color: lightseagreen;
+    
+}
+
+h2{
+    text-align: center;
+   
+}
+
+p{
+    text-align: center;
+}
+.dessert{
+    
+    margin: auto;
+
+    text-align: center;
+
+    width: 50%;
+
+}
+
+section{
+    background-color: lightyellow;
+    height: 90px;
+}
+img{
+    width: 70%;
+
+
+}
+

@@ -1,0 +1,44 @@
+
+
+div{
+    background-color: rgb(231, 178, 4);
+    width: 100%
+    
+}
+
+div div{
+    background-color: maroon;
+    width: 45%;
+    padding: 2.5%;
+    float: right;
+
+}
+
+div div div{
+    background-color: blue
+    
+}
+
+#card{
+    background-color: rgb(231, 178, 4);
+    padding: 10px;
+    clear: both;
+}
+
+.links{
+    background-color: rgb(50, 141, 168);
+    clear: both;
+    text-align: center;
+}
+
+a:hover{
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+}
+a{
+    text-align: center;
+
+}
+
