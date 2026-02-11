@@ -1,0 +1,25 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+div{
+    background-color: lavender;
+}
+section{
+    background-color: lavender;
+    float: left;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+p{
+    padding: 10px;
+}
+
+img{
+    float: right;
+    width: 20%;
+}
