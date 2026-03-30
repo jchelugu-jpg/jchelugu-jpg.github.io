@@ -1,45 +1,48 @@
 h1{
-    text-align:center;
+    text-align: center;
 }
 
-body{
-    background-color: mediumseagreen;
-    width: 1181px;
-    height: 1058.88px; 
+nav{
+    text-align: center;
 }
-div.left{
-    float: right;
-    background-color: tan;
-    text-align:center;
-    width: 50%;
-    padding: 25px;
-    height: 600px;
+button{
+    width: 350px;
+    height: 150px;
+}
+
+a.back{
+    float: left;
+    padding:11px;
+    width:10%;
+    background-color: red;
     
 }
 
-div.right img{
+
+
+main{
+    width: 1300px;
     margin: auto;
-    width: 530px;
-    height: 540px;
+}
+
+div.left{
+    width: 30%;
+    padding: 10px;
+    float: left;
 }
 
 
-hr{
-    width: 90%;
+div.middle{
+    padding: 10px;
+    float:left;
+    width: 30%;
 }
-
 
 div.right{
-    float:left;
-    
+    padding: 10px;
+    float: left;
+    width: 30%;
 }
-
-div{
-   
-    margin: auto;
-}
-
-
 
 a.btn{
     width: 400px;
@@ -47,19 +50,9 @@ a.btn{
     border-radius: 30px;
     background-color: aquamarine;
     display: block;  
-margin: auto;
 }
 
-button{
-    width: 350px;
-    
-    height: 150px;
-}
-
-
-
-.group div{
-    float: left;
-    width: 30%;
- 
+a :hover{
+    transform: scale(1.023) ;
+    box-shadow: 3px 6px 6px 0 rgba(0,0,0,.11);
 }
