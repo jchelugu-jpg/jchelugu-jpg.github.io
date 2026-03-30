@@ -1,39 +1,45 @@
 h1{
-    text-align: center;
+    text-align:center;
 }
 
-nav{
-    text-align: center;
+body{
+    background-color: mediumseagreen;
+    width: 1181px;
+    height: 1058.88px; 
 }
-button{
-    width: 350px;
-    height: 150px;
+div.left{
+    float: right;
+    background-color: tan;
+    text-align:center;
+    width: 50%;
+    padding: 25px;
+    height: 600px;
     
 }
 
-main{
-    width: 1300px;
+div.right img{
+    margin: auto;
+    width: 530px;
+    height: 540px;
+}
+
+
+hr{
+    width: 90%;
+}
+
+
+div.right{
+    float:left;
+    
+}
+
+div{
+   
     margin: auto;
 }
 
-div.left{
-    width: 30%;
-    padding: 10px;
-    float: left;
-}
 
-
-div.middle{
-    padding: 10px;
-    float:left;
-    width: 30%;
-}
-
-div.right{
-    padding: 10px;
-    float: left;
-    width: 30%;
-}
 
 a.btn{
     width: 400px;
@@ -41,9 +47,19 @@ a.btn{
     border-radius: 30px;
     background-color: aquamarine;
     display: block;  
+margin: auto;
 }
 
-a :hover{
-    transform: scale(1.023) ;
-    box-shadow: 3px 6px 6px 0 rgba(0,0,0,.11);
+button{
+    width: 350px;
+    
+    height: 150px;
+}
+
+
+
+.group div{
+    float: left;
+    width: 30%;
+ 
 }
