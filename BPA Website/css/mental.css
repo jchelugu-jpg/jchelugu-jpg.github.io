@@ -1,0 +1,49 @@
+h1{
+    text-align:center;
+}
+
+body{
+    background-color: mediumseagreen;
+    width: 1111px;
+    height: 648.44px; 
+}
+
+.left{
+    background-color: tan;
+    float: left;
+    padding: 10px;
+    width: 350px;
+    height: 560px;
+}
+
+h2{
+    text-align:center;
+    padding: 5%;
+}
+
+.right{
+    background-color: tan;
+    float: right;
+    padding: 10px;
+    width: 350px;
+    height: 560px;
+}
+
+.middle{
+    background-color: tan;
+    margin: auto;
+    padding: 10px;
+    width: 350px;
+    height: 560px;
+}
+
+ol{
+    background-color:  mediumvioletred ;
+    height: 65px;
+}
+
+.group div{
+    float: left;
+    width: 30%;
+ 
+}

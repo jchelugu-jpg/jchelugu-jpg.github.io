@@ -1,0 +1,65 @@
+h1{
+    text-align:center;
+}
+
+body{
+    background-color: mediumseagreen;
+    width: 1181px;
+    height: 1058.88px; 
+}
+div.left{
+    float: right;
+    background-color: tan;
+    text-align:center;
+    width: 50%;
+    padding: 25px;
+    height: 600px;
+    
+}
+
+div.right img{
+    margin: auto;
+    width: 530px;
+    height: 540px;
+}
+
+
+hr{
+    width: 90%;
+}
+
+
+div.right{
+    float:left;
+    
+}
+
+div{
+   
+    margin: auto;
+}
+
+
+
+a.btn{
+    width: 400px;
+    height: 150px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    display: block;  
+margin: auto;
+}
+
+button{
+    width: 350px;
+    
+    height: 150px;
+}
+
+
+
+.group div{
+    float: left;
+    width: 30%;
+ 
+}
